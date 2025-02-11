@@ -1,2 +1,3 @@
-# etna
-private financial app
+# Etna
+Personal finance App
+
